@@ -1,0 +1,10 @@
+Inline-Search-Engine (Telegram bot devolop)
+
+class Mesaages:
+    START_MSG= "**Hello!** 
+    [{}](tg://user?id={}) **මේ Bot යොදාගෙන [ඔයාට](tg://settings) Telegram තුළ ඇති බොහොමයක් inline searching username ලබා ගැනීමේ හැකියාවක් තියෙනවා**"
+    HELP_MSG= "**Commamds : විධාන**
+    - /inline : Inline searchig usernames ලබා ගැනීමට
+    - /send : Inline search usernames ලබා දීමට
+    - /rsalu : Bugs (දෝෂ) වාර්තා කිරීමට
+    
